@@ -22,10 +22,10 @@
 |----------|-------------|
 | ☁️ Cloud | AWS (EC2, S3, VPC, IAM) |
 | 🔁 CI/CD | Jenkins, GitHub Actions |
-| 🐳 Containers | Docker, Kubernetes |
+| 🐳 Containers | Docker, Kubernetes, Helm |
 | 🌍 IaC | Terraform |
 | 🤖 Automation | Ansible, Shell Scripting |
-| 🔧 Version Control | Git, GitHub |
+| 🔧 Version Control | Git, GitHub, GitLab |
 | 🐧 OS | Linux |
 | 📊 Monitoring | Prometheus, Grafana |
 
