@@ -7,6 +7,16 @@
 
 ---
 
+</p>
+
+<h2 align="center">🌌 My DevOps Technology Universe</h2>
+
+<p align="center">
+  <img src="./assets/orbit.svg" width="720" alt="My DevOps Technology Stack"/>
+</p>
+
+---
+
 ## 👨‍💻 About Me
 - 💼 DevOps Engineer with 3+ years of experience in Cloud & Automation  
 - ☁️ Hands-on experience with AWS Cloud (EC2, S3, VPC, IAM)  
